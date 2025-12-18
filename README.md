@@ -95,18 +95,24 @@ Low learning rate to prevent overfitting
 Audio-Emotion-Detection/
 │
 ├── data/
+
 │   └── dataset_download.py
 │
+
 ├── preprocessing/
 │   └── audio_preprocessing.py
+
 │
 ├── training/
 │   └── train_model.py
+
 │
 ├── inference/
 │   └── predict_emotion.py
+
 │
 ├── requirements.txt
+
 └── README.md
 
 🚀 How to Run
